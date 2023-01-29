@@ -1,5 +1,5 @@
 
-# PsychologistDoctor Appointment System
+# Psychologist_Doctor Appointment System
 
 A simple system based on Java. As per restriction System uses *Text* Files as Database.
 This is a simple program which let you register and login as psychologistdoctor as well as patient.
