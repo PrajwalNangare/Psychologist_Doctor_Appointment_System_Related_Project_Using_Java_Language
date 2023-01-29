@@ -15,15 +15,6 @@ Now I added almost all functionalities. PsychologistDoctors can view specific ap
 - Patient Class
 - Admin Class
 
-# Methods
-- reg()
-- login()
-- appointment()
-- viewPsychologistDoctors()
-- removePsychologistDoctor()
-- removePatient()
-- removeAppointment()
-
 ## Tech Stack
 
 **Client:** Based on CMD
